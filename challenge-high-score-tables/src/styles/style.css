@@ -1,0 +1,28 @@
+.App {
+    text-align: center;
+    border: 1px solid blue;
+    font-family: 'Arial';
+    max-width: 30em;
+    margin: 0 auto;
+}
+
+.App ul {
+    border: 2px solid yellow;
+    list-style: none;
+    padding: 1em;
+}
+.score {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    width: 100%; 
+}
+.score p {
+    width: 50%;
+}
+.score p:first-child {
+    text-align: right;
+}
+.score p:last-child {
+    font-size:large;
+}
