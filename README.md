@@ -7,6 +7,8 @@ There are also some larger projects at https://github.com/CodeYourFuture/group-p
 # Solutions (Netlify Deployed):
 1. [High Score Table](https://cyf-berkeli-scores.netlify.app/)
 2. [Baby Name Picker](https://cyf-berkeli-baby-names.netlify.app/)
+2. [Countries](https://cyf-berkeli-countries.netlify.app/)
+
 
 ## Contribution Guide
 Want to add a challenge?
