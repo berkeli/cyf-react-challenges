@@ -4,6 +4,10 @@ A collection of introductory React challenges.
 
 There are also some larger projects at https://github.com/CodeYourFuture/group-projects#react-only-projects
 
+# Solutions (Netlify Deployed):
+1. [High Score Table](https://cyf-berkeli-scores.netlify.app/)
+2. [Baby Name Picker](https://cyf-berkeli-baby-names.netlify.app/)
+
 ## Contribution Guide
 Want to add a challenge?
 
